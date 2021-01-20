@@ -51,7 +51,7 @@ features:
     fontawesome_icon_name: moon
 
   - title: Multiple Language Support
-    description: Display a smart app banner on iOS devices.
+    description: We support 2 languages, English and Arabic.
     fontawesome_icon_name: atlas
 
 # Theme Settings
