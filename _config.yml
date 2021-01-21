@@ -39,11 +39,11 @@ features:
     fontawesome_icon_name: search
 
   - title: Watch History
-    description: See extactly hat your kids watched.
+    description: See extactly what your kids watched.
     fontawesome_icon_name: history
 
   - title: Search History
-    description: See extactly hat your kids searched.
+    description: See extactly what your kids searched.
     fontawesome_icon_name: history
 
   - title: Dark Mode Support
