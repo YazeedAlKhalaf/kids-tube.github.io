@@ -39,7 +39,7 @@ features:
     fontawesome_icon_name: search
 
   - title: Keep up with what they watch
-    description: This feature helps reduce eye strain, this is so useful for kids who watch videos a lot.
+    description: Simply check the watch history page and you’ll always know what they’ve watched and the newest interests they’re exploring.
     fontawesome_icon_name: history
 
   - title: Keep up with what they search about
